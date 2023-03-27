@@ -1,0 +1,27 @@
+tensorflow==2.3.0
+pillow==8.3.2
+numpy==1.16.5
+streamlit==0.81.1
+streamlit run glaucoma_app.py
+
+For Project
+
+ TITLE 
+
+1) Abstract
+2) Introduction
+3) Existing System
+4) Dis advantages
+5) Proposed System
+6) Advantages
+7) Architectural Diagram
+8) Modules
+9) Module Description
+10) Module diagrams
+11) UML Diagrams
+12) Coding
+13) Output
+14) Output Screenshot s
+15) Future works
+16) Conclusion
+17) refference
